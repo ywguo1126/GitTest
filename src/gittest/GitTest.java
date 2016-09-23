@@ -6,7 +6,7 @@
 package gittest;
 
 /**
- *
+ * 
  * @author dell
  */
 public class GitTest {
@@ -18,7 +18,8 @@ public class GitTest {
         // TODO code application logic here
         //I changed the code.
         // candy made some changes.
-        //why?
+        //why?SHenglAN
+
     }
     
 }
